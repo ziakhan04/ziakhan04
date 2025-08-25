@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zia
+👋 Hi, I’m Zia
 
 <!---
 ziakhan04/ziakhan04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
